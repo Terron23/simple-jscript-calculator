@@ -1,0 +1,34 @@
+#calendar{
+  width: 130px;
+  height: 180px;
+  background-color: cornflowerblue;
+  color: #fff;
+  border-radius: 5%;
+  box-shadow: 0 4px 4px 0 rgba(50, 50, 50, .04);
+  
+}
+#calendar > p {
+  font-family: verdana, arial, sans-serif;
+  padding: 8px 0;
+  margin 0;
+  color: #fff;
+  text-align: center;
+}
+#calendar-day {
+  font-size: 16px;
+  padding: 0;
+  margin: 0;
+}
+
+#calendarmonthyear {
+  font-size: 14px;
+  padding: 0;
+  margin: 0;
+}
+
+#calendar-date {
+ 
+  font-size: 64px;
+ padding: 0;
+  margin: 0;
+}
